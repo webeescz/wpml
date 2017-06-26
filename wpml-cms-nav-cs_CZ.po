@@ -3,8 +3,6 @@
 # https://wpml.org
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: WPML CMS Navigace\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
@@ -12,200 +10,266 @@ msgstr ""
 "Language-Team: webees.cz s.r.o.\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Poedit 2.0.2\n"
 
-msgid "News"
-msgstr "Zprávy"
+# wpml-name: bbfeff7c1b7114dc6b3f726430b666e1
+msgid "1.4.20"
+msgstr "1.4.20"
 
-msgid "WPML CMS Navigation is enabled but not effective. It requires <a href=\"%s\">WPML</a> in order to work."
-msgstr "WPML CMS Navigace je aktivní, ale nefunguje. Pro fungování vyžaduje <a href=\"%s\">WPML</a>."
+# wpml-name: 334b048f14eaf02daeb0f263a5fab750
+msgid "http://www.onthegosystems.com/"
+msgstr "http://www.onthegosystems.com/"
 
-msgid "WPML CMS Navigation is enabled but not effective. It is not compatible with  <a href=\"%s\">WPML</a> versions prior 2.0.5."
-msgstr "WPML CMS Navigace je aktivní, ale nefunguje. Není kompatibilní s verzemi <a href=\"%s\">WPML</a> před verzí 2.0.5."
+# wpml-name: 3509a3591210a46ce6f7f4bd78e742b5
+msgid "OnTheGoSystems"
+msgstr "OnTheGoSystems"
 
-msgid "Navigation"
-msgstr "Navigace"
+# wpml-name: 01c2ee7325ed8615b114db18842048a5
+msgid ""
+"Adds CMS navigation elements to sites built with WPML | <a href=\"https://"
+"wpml.org\">Documentation</a> | <a href=\"https://wpml.org/version/"
+"wpml-3-5-3-1/\">WPML 3.5.3.1 release notes</a>"
+msgstr ""
+"Přidá navigační prvky do webů vytvořených s WPML | <a href=\"https://wpml.org"
+"\">Dokumentace</a> | <a href=\"https://wpml.org/version/wpml-3-5-3-1/"
+"\">Poznámky k vydání WPML 3.5.3.1</a>"
 
-msgid "Articles tagged "
-msgstr "Články se štítky "
+# wpml-name: 372f595c51cdb27cffe7123fad905d63
+msgid "https://wpml.org/"
+msgstr "https://wpml.org/"
 
-msgid "Search for: "
-msgstr "Hledat:"
-
-msgid "CMS Navigation"
-msgstr "CMS Navigace"
-
-msgid "Exclude from the top navigation"
-msgstr "Vyloučit z horní navigace"
-
-msgid "Mini home (don't list child pages for this page)"
-msgstr "Mini domů (nevypisovat podstránky pro tuto stránku)"
-
-msgid "Section"
-msgstr "Část"
-
-msgid "--none--"
-msgstr "--žádné--"
-
-msgid "enter new"
-msgstr "vložte nový"
-
-msgid "Offsite page address"
-msgstr "Adresa stránky mimo web"
-
-msgid "cancel"
-msgstr "zrušit"
-
-msgid "WPML provides advanced menus and navigation to go with your WordPress website, including drop-down menus, breadcrumbs and sidebar navigation."
-msgstr "WPML poskytuje pokročilá menu a navigaci pro váš WordPress web včetně rozbalovacích menu, drobečkové navigace a navigace postranního panelu."
-
-msgid "Configure navigation"
-msgstr "Konfigurovat navigace"
+# wpml-name: 6a711c9e8710849b60c7775c429c84af
+msgid "WPML CMS Nav"
+msgstr "WPML CMS Navigace"
 
 msgid "Configure"
 msgstr "Konfigurovat"
 
-msgid "Home"
-msgstr "Domů"
+msgid "Configure navigation"
+msgstr "Konfigurovat navigace"
 
-msgid "Sidebar Navigation"
-msgstr "Navigace postranního panelu"
+msgid ""
+"WPML provides advanced menus and navigation to go with your WordPress "
+"website, including drop-down menus, breadcrumbs and sidebar navigation."
+msgstr ""
+"WPML poskytuje pokročilá menu a navigaci pro váš WordPress web včetně "
+"rozbalovacích menu, drobečkové navigace a navigace postranního panelu."
 
-msgid "WPML Update is Incomplete"
-msgstr "Aktualizace WPML je nekompletní"
+msgid "Offsite page address"
+msgstr "Adresa stránky mimo web"
 
-msgid "You are running updated %s, but the following component is not updated:"
-msgstr "Používáte aktualizovaný %s, následující komponenta ale není aktualizována:"
+msgid "--none--"
+msgstr "--žádné--"
 
-msgid "You are running updated %s and %s, but the following components are not updated:"
-msgstr "Používáte aktualizovaný %s a %s, následující komponenty ale nejsou aktualizovány:"
+msgid "Section"
+msgstr "Část"
 
-msgid "The following components are not updated:"
-msgstr "Následující komponenty nejsou aktualizovány:"
+msgid "Mini home (don't list child pages for this page)"
+msgstr "Mini domů (nevypisovat podstránky pro tuto stránku)"
 
-msgid "WPML.org account"
-msgstr "WPML.org účet"
+msgid "Exclude from the top navigation"
+msgstr "Vyloučit z horní navigace"
 
-msgid "Your site will not work as it should in this configuration"
-msgstr "Web v této konfiguraci nebude fungovat tak, jak by měl"
+msgid "Search for: "
+msgstr "Hledat:"
 
-msgid "Please update all components which you are using."
-msgstr "Aktualizujte prosím všechny používané komponenty."
+msgid "Articles tagged "
+msgstr "Články se štítky "
 
-msgid "For WPML components you can receive updates from your %s or automatically, after you register WPML."
-msgstr "Po registraci WPML můžete automaticky přijímat aktualizace WPML komponent z vašeho %s."
+msgid ""
+"WPML CMS Navigation is enabled but not effective. It is not compatible with  "
+"<a href=\"%s\">WPML</a> versions prior 2.0.5."
+msgstr ""
+"WPML CMS Navigace je aktivní, ale nefunguje. Není kompatibilní s verzemi <a "
+"href=\"%s\">WPML</a> před verzí 2.0.5."
 
-msgid "The cache has been cleared."
-msgstr "Mezipaměť byla vyčištěna."
+msgid ""
+"WPML CMS Navigation is enabled but not effective. It requires <a href=\"%s"
+"\">WPML</a> in order to work."
+msgstr ""
+"WPML CMS Navigace je aktivní, ale nefunguje. Pro fungování vyžaduje <a href="
+"\"%s\">WPML</a>."
 
-msgid "Setup WPML CMS Navigation"
-msgstr "Nastavit WPML CMS Navigace"
-
-msgid "Out-of-the-box support for full CMS navigation in your WordPress site including drop down menus, breadcrumbs trail and sidebar navigation."
-msgstr "Připravená podpora pro plnohodnotnou CMS navigace na vašem WordPress webu včetně výsuvných menu, drobečkové navigace a navigace postranního panelu."
-
-msgid "Settings"
-msgstr "Nastavení"
-
-msgid "Page order"
-msgstr "Pořadí stránky"
-
-msgid "Menu order"
-msgstr "Pořadí menu"
-
-msgid "Alphabetically"
-msgstr "Abecedně"
-
-msgid "Creation time"
-msgstr "Čas vytvoření"
-
-msgid "Blog posts menu"
-msgstr "Menu příspěvků blogu"
-
-msgid "Categories menu title"
-msgstr "Název kategorie menu"
-
-msgid "Sidebar pages menu"
-msgstr "Menu stránek postranního panelu"
-
-msgid "Heading start"
-msgstr "Začátek nadpisu"
-
-msgid "Heading end"
-msgstr "Konec nadpisu"
-
-msgid "Breadcrumbs separator"
-msgstr "Oddělovač drobečkové navigace"
-
-msgid "Caching"
-msgstr "Mezipaměť"
-
-msgid "Cache navigation elements for super fast performance"
-msgstr "Mezipaměť pro navigační prvky pro vysoký výkon"
-
-msgid "Clear cache now"
-msgstr "Vyčistit mezipaměť nyní"
-
-msgid "Save Changes"
-msgstr "Uložit změny"
-
-msgid "Instructions for adding the navigation to your theme"
-msgstr "Instrukce pro přidání navigace do vaší šablony"
-
-msgid "Navigation element"
-msgstr "Navigační prvek"
-
-msgid "Description"
-msgstr "Popis"
-
-msgid "HTML to add"
-msgstr "HTML k přidání"
-
-msgid "Where to add"
-msgstr "Kde přidat"
-
-msgid "Top navigation"
-msgstr "Horní navigace"
-
-msgid "A list of the top level pages with drop down menus for second level menus. Can optionally contain the post categories"
-msgstr "Seznam stránek nejvyšší úrovně s výsuvným menu pro druhou úroveň menu. Volitelně může obsahovat rubriky příspěvků"
-
-msgid "Breadcrumbs trails"
-msgstr "Drobečková navigace"
-
-msgid "Lists the path back to the home page"
-msgstr "Vypisuje cestu zpět na domovskou stránku"
-
-msgid "%s or %s, %s, %s, %s and %s"
-msgstr "%s nebo %s, %s, %s, %s a %s"
-
-msgid "Sidebar navigation"
-msgstr "Navigace postranního panelu"
-
-msgid "Local navigation tree with page siblings, parent and brothers"
-msgstr "Lokální strom navigace se sourozenci, rodiči a bratry"
-
-msgid "You can also add the sidebar navigation as a <a%s>widget</a>."
-msgstr "Navigaci postranního panelu můžete přidat také jako <a%s>widget</a>."
-
-msgid "To customize the appearance of the navigation elements, you will need to override the styling provided in the plugin's CSS file."
-msgstr "Pro uzpůsobení vzhledu navigačních prvků je nutné přepsat styl poskytnutý CSS souborem pluginu."
-
-msgid "Visit %s for full CSS customization information."
-msgstr "Navštívit %s pro kompletní informace k úpravě CSS."
-
-msgid "Show blog posts menu"
-msgstr "Zobrazit menu příspěvků blogu"
-
-msgid "Select what items to display for the blog menu:"
-msgstr "Vyberte, které položky zobrazit v menu blogu:"
-
-msgid "Categories"
-msgstr "Rubriky"
+msgid "Nothing"
+msgstr "Nic"
 
 msgid "Recent posts"
 msgstr "Nedávné příspěvky"
 
-msgid "Nothing"
-msgstr "Nic"
+msgid "Categories"
+msgstr "Rubriky"
+
+msgid "Select what items to display for the blog menu:"
+msgstr "Vyberte, které položky zobrazit v menu blogu:"
+
+msgid "Show blog posts menu"
+msgstr "Zobrazit menu příspěvků blogu"
+
+msgid "Visit %s for full CSS customization information."
+msgstr "Navštívit %s pro kompletní informace k úpravě CSS."
+
+msgid ""
+"To customize the appearance of the navigation elements, you will need to "
+"override the styling provided in the plugin's CSS file."
+msgstr ""
+"Pro uzpůsobení vzhledu navigačních prvků je nutné přepsat styl poskytnutý "
+"CSS souborem pluginu."
+
+msgid "You can also add the sidebar navigation as a <a%s>widget</a>."
+msgstr "Navigaci postranního panelu můžete přidat také jako <a%s>widget</a>."
+
+msgid "Local navigation tree with page siblings, parent and brothers"
+msgstr "Lokální strom navigace se sourozenci, rodiči a bratry"
+
+msgid "Sidebar navigation"
+msgstr "Navigace postranního panelu"
+
+msgid "%s or %s, %s, %s, %s and %s"
+msgstr "%s nebo %s, %s, %s, %s a %s"
+
+msgid "Lists the path back to the home page"
+msgstr "Vypisuje cestu zpět na domovskou stránku"
+
+msgid "Breadcrumbs trails"
+msgstr "Drobečková navigace"
+
+msgid ""
+"A list of the top level pages with drop down menus for second level menus. "
+"Can optionally contain the post categories"
+msgstr ""
+"Seznam stránek nejvyšší úrovně s výsuvným menu pro druhou úroveň menu. "
+"Volitelně může obsahovat rubriky příspěvků"
+
+msgid "Top navigation"
+msgstr "Horní navigace"
+
+msgid "Where to add"
+msgstr "Kde přidat"
+
+msgid "HTML to add"
+msgstr "HTML k přidání"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Navigation element"
+msgstr "Navigační prvek"
+
+msgid "Instructions for adding the navigation to your theme"
+msgstr "Instrukce pro přidání navigace do vaší šablony"
+
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+msgid "Clear cache now"
+msgstr "Vyčistit mezipaměť nyní"
+
+msgid "Cache navigation elements for super fast performance"
+msgstr "Mezipaměť pro navigační prvky pro vysoký výkon"
+
+msgid "Caching"
+msgstr "Mezipaměť"
+
+msgid "Breadcrumbs separator"
+msgstr "Oddělovač drobečkové navigace"
+
+msgid "Heading end"
+msgstr "Konec nadpisu"
+
+msgid "Heading start"
+msgstr "Začátek nadpisu"
+
+msgid "Sidebar pages menu"
+msgstr "Menu stránek postranního panelu"
+
+msgid "News"
+msgstr "Zprávy"
+
+msgid "Categories menu title"
+msgstr "Název kategorie menu"
+
+msgid "Blog posts menu"
+msgstr "Menu příspěvků blogu"
+
+msgid "Creation time"
+msgstr "Čas vytvoření"
+
+msgid "Alphabetically"
+msgstr "Abecedně"
+
+msgid "Menu order"
+msgstr "Pořadí menu"
+
+msgid "Page order"
+msgstr "Pořadí stránky"
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid ""
+"Out-of-the-box support for full CMS navigation in your WordPress site "
+"including drop down menus, breadcrumbs trail and sidebar navigation."
+msgstr ""
+"Připravená podpora pro plnohodnotnou CMS navigace na vašem WordPress webu "
+"včetně výsuvných menu, drobečkové navigace a navigace postranního panelu."
+
+msgid "Setup WPML CMS Navigation"
+msgstr "Nastavit WPML CMS Navigace"
+
+msgid "The cache has been cleared."
+msgstr "Mezipaměť byla vyčištěna."
+
+msgid "cancel"
+msgstr "zrušit"
+
+msgid "enter new"
+msgstr "vložte nový"
+
+msgid "CMS Navigation"
+msgstr "CMS Navigace"
+
+msgid "Navigation"
+msgstr "Navigace"
+
+msgid "Sidebar Navigation"
+msgstr "Navigace postranního panelu"
+
+#~ msgid "Home"
+#~ msgstr "Domů"
+
+#~ msgid "WPML Update is Incomplete"
+#~ msgstr "Aktualizace WPML je nekompletní"
+
+#~ msgid ""
+#~ "You are running updated %s, but the following component is not updated:"
+#~ msgstr ""
+#~ "Používáte aktualizovaný %s, následující komponenta ale není aktualizována:"
+
+#~ msgid ""
+#~ "You are running updated %s and %s, but the following components are not "
+#~ "updated:"
+#~ msgstr ""
+#~ "Používáte aktualizovaný %s a %s, následující komponenty ale nejsou "
+#~ "aktualizovány:"
+
+#~ msgid "The following components are not updated:"
+#~ msgstr "Následující komponenty nejsou aktualizovány:"
+
+#~ msgid "WPML.org account"
+#~ msgstr "WPML.org účet"
+
+#~ msgid "Your site will not work as it should in this configuration"
+#~ msgstr "Web v této konfiguraci nebude fungovat tak, jak by měl"
+
+#~ msgid "Please update all components which you are using."
+#~ msgstr "Aktualizujte prosím všechny používané komponenty."
+
+#~ msgid ""
+#~ "For WPML components you can receive updates from your %s or "
+#~ "automatically, after you register WPML."
+#~ msgstr ""
+#~ "Po registraci WPML můžete automaticky přijímat aktualizace WPML komponent "
+#~ "z vašeho %s."

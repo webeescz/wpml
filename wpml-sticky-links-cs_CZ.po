@@ -3,131 +3,186 @@
 # https://wpml.org
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: WPML Fixní odkazy\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Jakub Machala <jakubmachala@webees.cz>\n"
+"Last-Translator: webees.cz s.r.o. <webees@webees.cz>\n"
 "Language-Team: webees.cz s.r.o.\n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Poedit 2.0.2\n"
 
-msgid "WPML Sticky Links is enabled but not effective. It requires <a href=\"%s\">WPML</a> in order to work."
-msgstr "WPML Fixní odkazy je aktivní, ale nefunguje. Pro fungování vyžaduje <a href=\"%s\">WPML</a>."
+# wpml-name: 1e6dbfaaa068a191cfd257c013ddd699
+msgid "1.4.1"
+msgstr "1.4.1"
 
-msgid "WPML Sticky Links is enabled but not effective. It is not compatible with  <a href=\"%s\">WPML</a> versions prior 2.0.5."
-msgstr "WPML Fixní odkazy je aktivní, ale nefunguje. Není kompatibilní s verzemi <a href=\"%s\">WPML</a> před verzí 2.0.5."
+# wpml-name: 334b048f14eaf02daeb0f263a5fab750
+msgid "http://www.onthegosystems.com/"
+msgstr "http://www.onthegosystems.com/"
 
-msgid "Running"
-msgstr "Probíhá"
+# wpml-name: 3509a3591210a46ce6f7f4bd78e742b5
+msgid "OnTheGoSystems"
+msgstr "OnTheGoSystems"
 
-msgid "Scan"
-msgstr "Skenování"
+# wpml-name: 842db2ab87e87b875bbad0e7dfba9593
+msgid ""
+"Prevents internal links from ever breaking | <a href=\"https://wpml.org"
+"\">Documentation</a> | <a href=\"https://wpml.org/version/wpml-1-4-1/\">WPML "
+"1.4.1 release notes</a>"
+msgstr ""
+"Zabraňuje problémům s interními odkazy | <a href=\"https://wpml.org"
+"\">Dokumentace</a> | <a href=\"https://wpml.org/version/wpml-1-4-1/"
+"\">Poznámky k vydání WPML 1.4.1</a>"
 
-msgid "fixed"
-msgstr "pevný"
+# wpml-name: 372f595c51cdb27cffe7123fad905d63
+msgid "https://wpml.org/"
+msgstr "https://wpml.org/"
 
-msgid "Start"
-msgstr "Začít"
-
-msgid "items left"
-msgstr "položek zbývá"
-
-msgid "Sticky Links"
-msgstr "Fixní odkazy"
-
-msgid "With Sticky Links, WPML can automatically ensure that all links on posts and pages are up-to-date, should their URL change."
-msgstr "S Fixní odkazy se WPML automaticky postará o to, aby byly všechny odkazy v příspěvcích a stránkách aktuální i při změně jejich URL."
-
-msgid "Configure Sticky Links"
-msgstr "Konfigurovat Fixní odkazy"
-
-msgid "Configure"
-msgstr "Konfigurovat"
+# wpml-name: 82945ca7a1db88a9c1917bbbd3d88d46
+msgid "WPML Sticky Links"
+msgstr "WPML Fixní odkazy"
 
 msgid "Sticky links"
 msgstr "Fixní odkazy"
 
-msgid "WPML Update is Incomplete"
-msgstr "Aktualizace WPML je nekompletní"
+msgid "Configure"
+msgstr "Konfigurovat"
 
-msgid "You are running updated %s, but the following component is not updated:"
-msgstr "Používáte aktualizovaný %s, následující komponenta ale není aktualizována:"
+msgid "Configure Sticky Links"
+msgstr "Konfigurovat Fixní odkazy"
 
-msgid "You are running updated %s and %s, but the following components are not updated:"
-msgstr "Používáte aktualizovaný %s a %s, následující komponenty ale nejsou aktualizovány:"
+msgid ""
+"With Sticky Links, WPML can automatically ensure that all links on posts and "
+"pages are up-to-date, should their URL change."
+msgstr ""
+"S Fixní odkazy se WPML automaticky postará o to, aby byly všechny odkazy v "
+"příspěvcích a stránkách aktuální i při změně jejich URL."
 
-msgid "The following components are not updated:"
-msgstr "Následující komponenty nejsou aktualizovány:"
+msgid ""
+"WPML Sticky Links is enabled but not effective. It is not compatible with  "
+"<a href=\"%s\">WPML</a> versions prior 2.0.5."
+msgstr ""
+"WPML Fixní odkazy je aktivní, ale nefunguje. Není kompatibilní s verzemi <a "
+"href=\"%s\">WPML</a> před verzí 2.0.5."
 
-msgid "WPML.org account"
-msgstr "WPML.org účet"
-
-msgid "Your site will not work as it should in this configuration"
-msgstr "Web v této konfiguraci nebude fungovat tak, jak by měl"
-
-msgid "Please update all components which you are using."
-msgstr "Aktualizujte prosím všechny používané komponenty."
-
-msgid "For WPML components you can receive updates from your %s or automatically, after you register WPML."
-msgstr "Po registraci WPML můžete automaticky přijímat aktualizace WPML komponent z vašeho %s."
-
-msgid "Setup Sticky Links"
-msgstr "Nastavit Fixní odkazy"
-
-msgid "Apply"
-msgstr "Použít"
-
-msgid "posts and pages not processed"
-msgstr "nezpracované příspěvky a stránky"
-
-msgid "Replace permalinks with sticky links in posts that have not been checked"
-msgstr "Nahradit trvalé odkazy fixními odkazy v příspěvcích, které nebyly zkontrolovány"
-
-msgid "Scan ALL posts"
-msgstr "Skenovat VŠECHNY příspěvky"
-
-msgid "Replace permalinks with sticky links in all blog posts"
-msgstr "Nahradit trvalé odkazy fixními odkazy ve všech příspěvcích blogu"
-
-msgid "Broken Links"
-msgstr "Poškozené odkazy"
-
-msgid "Post/page"
-msgstr "Příspěvek/stránka"
-
-msgid "Broken link"
-msgstr "Poškozený odkaz"
-
-msgid "Suggestions"
-msgstr "Doporučení"
-
-msgid "use"
-msgstr "použít"
-
-msgid "No suggestions"
-msgstr "Žádné návrhy"
-
-msgid "empty"
-msgstr "prázdné"
-
-msgid "Revert sticky urls to permalinks"
-msgstr "Vrátit fixní odkazy na trvalé odkazy"
-
-msgid "Change sticky links back to Wordpress permalinks"
-msgstr "Změnit fixní odkazy zpět na trvalé odkazy WordPressu"
-
-msgid "items in queue"
-msgstr "položky ve frontě"
-
-msgid "Options"
-msgstr "Možnosti"
+msgid ""
+"WPML Sticky Links is enabled but not effective. It requires <a href=\"%s"
+"\">WPML</a> in order to work."
+msgstr ""
+"WPML Fixní odkazy je aktivní, ale nefunguje. Pro fungování vyžaduje <a href="
+"\"%s\">WPML</a>."
 
 msgid "Turn links in text widgets to Sticky"
 msgstr "Změnit odkazy v textových widgetech na fixní"
 
-msgid "Turn links in WPML's string Translation to Sticky"
-msgstr "Změnit odkazy ve WPML Překlad řetězců na fixní"
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "items in queue"
+msgstr "položky ve frontě"
+
+msgid "Change sticky links back to Wordpress permalinks"
+msgstr "Změnit fixní odkazy zpět na trvalé odkazy WordPressu"
+
+msgid "Revert sticky urls to permalinks"
+msgstr "Vrátit fixní odkazy na trvalé odkazy"
+
+msgid "empty"
+msgstr "prázdné"
+
+msgid "No suggestions"
+msgstr "Žádné návrhy"
+
+msgid "use"
+msgstr "použít"
+
+msgid "Suggestions"
+msgstr "Doporučení"
+
+msgid "Broken link"
+msgstr "Poškozený odkaz"
+
+msgid "Post/page"
+msgstr "Příspěvek/stránka"
+
+msgid "Broken Links"
+msgstr "Poškozené odkazy"
+
+msgid "Replace permalinks with sticky links in all blog posts"
+msgstr "Nahradit trvalé odkazy fixními odkazy ve všech příspěvcích blogu"
+
+msgid "Scan ALL posts"
+msgstr "Skenovat VŠECHNY příspěvky"
+
+msgid ""
+"Replace permalinks with sticky links in posts that have not been checked"
+msgstr ""
+"Nahradit trvalé odkazy fixními odkazy v příspěvcích, které nebyly "
+"zkontrolovány"
+
+msgid "posts and pages not processed"
+msgstr "nezpracované příspěvky a stránky"
+
+msgid "Apply"
+msgstr "Použít"
+
+msgid "Setup Sticky Links"
+msgstr "Nastavit Fixní odkazy"
+
+msgid "items left"
+msgstr "položek zbývá"
+
+msgid "Start"
+msgstr "Začít"
+
+msgid "fixed"
+msgstr "pevný"
+
+msgid "Scan"
+msgstr "Skenování"
+
+msgid "Running"
+msgstr "Probíhá"
+
+msgid "Sticky Links"
+msgstr "Fixní odkazy"
+
+#~ msgid "WPML Update is Incomplete"
+#~ msgstr "Aktualizace WPML je nekompletní"
+
+#~ msgid ""
+#~ "You are running updated %s, but the following component is not updated:"
+#~ msgstr ""
+#~ "Používáte aktualizovaný %s, následující komponenta ale není aktualizována:"
+
+#~ msgid ""
+#~ "You are running updated %s and %s, but the following components are not "
+#~ "updated:"
+#~ msgstr ""
+#~ "Používáte aktualizovaný %s a %s, následující komponenty ale nejsou "
+#~ "aktualizovány:"
+
+#~ msgid "The following components are not updated:"
+#~ msgstr "Následující komponenty nejsou aktualizovány:"
+
+#~ msgid "WPML.org account"
+#~ msgstr "WPML.org účet"
+
+#~ msgid "Your site will not work as it should in this configuration"
+#~ msgstr "Web v této konfiguraci nebude fungovat tak, jak by měl"
+
+#~ msgid "Please update all components which you are using."
+#~ msgstr "Aktualizujte prosím všechny používané komponenty."
+
+#~ msgid ""
+#~ "For WPML components you can receive updates from your %s or "
+#~ "automatically, after you register WPML."
+#~ msgstr ""
+#~ "Po registraci WPML můžete automaticky přijímat aktualizace WPML komponent "
+#~ "z vašeho %s."
+
+#~ msgid "Turn links in WPML's string Translation to Sticky"
+#~ msgstr "Změnit odkazy ve WPML Překlad řetězců na fixní"
