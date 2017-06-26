@@ -1,5 +1,5 @@
 # Český překlad WPML
-Kompletní český překlad rozšíření **WPML** (WordPress Multilingual) pro redakční systém **WordPress**.
+Kompletní český překlad rozšíření [**WPML**](https://wpml.cz/nakup) (WordPress Multilingual) pro redakční systém **WordPress**.
 
 ## Součásti překladu
 - WPML Multilingual CMS v3.7.1
