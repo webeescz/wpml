@@ -17,7 +17,7 @@ Kompletní český překlad rozšíření [**WPML**](https://wpml.cz/nakup) (Wor
 
 ## Instalace překladu
 1. Stáhněte si jednotlivé překlady nebo [kompletní archiv](https://github.com/webeescz/wpml/raw/master/wpml_cs_cz_v1_2.zip).
-2. Soubory z archivu nakopírujte do složky /wp-content/languages/plugins/ ve Vašem WordPressu
+2. Soubory z archivu nakopírujte do složky /wp-content/languages/plugins/ ve Vašem WordPressu.
 3. V případě, že byl před nakopírováním aktivní plugin **WPML Překlad řetězců** (WPML String Translator), je potřeba řetězce pro dotčené WPML pluginy znovu naskenovat.
-4. Některé jazykové domény bohužel nejsou automaticky načteny, v takovém případě proveďte manuální import frázi z obrazovky **WPML Překlad řetězců** pro danou jazykovou doménu.
+4. Některé jazykové domény bohužel nejsou automaticky načteny, v takovém případě proveďte manuální import frází na obrazovce **WPML Překlad řetězců** pro danou jazykovou doménu.
 5. Hotovo :)
